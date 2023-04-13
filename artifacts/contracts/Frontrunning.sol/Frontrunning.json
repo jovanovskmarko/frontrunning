@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Frontrunning",
+  "sourceName": "contracts/Frontrunning.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212203e138a681c8440eb4d5ed26596df23d0cd3556378a4c172b93f14052905faf5964736f6c634300080d0033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212203e138a681c8440eb4d5ed26596df23d0cd3556378a4c172b93f14052905faf5964736f6c634300080d0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
